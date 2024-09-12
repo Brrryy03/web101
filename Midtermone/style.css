@@ -1,0 +1,48 @@
+.span{
+    color: white
+}
+body{
+background-color: grey;
+}
+img{
+display:block;
+margin: auto;
+}
+img#image{
+border: 15px solid black;
+}
+table, th, td{
+border-collapse: collapse;
+border: 2px solid black;
+padding: 5px;
+padding: 10px;
+width: 1500px;
+text-align: center;
+}
+
+.navbar ul{
+       list-style-type: none;
+       background-color: rgb(77, 75, 75);
+       margin: 0px;
+       padding: 0px;
+       text-align: center;
+       font-weight: bold;
+}
+.navbar a{
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+   
+}
+.navbar a:hover{
+       background-color: rgb(25, 24, 24);
+}
+.navbar li{
+    display:inline-block;
+}
+.para{
+    text-align: center;
+    padding: 15px;
+    margin: 25px;
+}
